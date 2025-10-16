@@ -1,0 +1,15 @@
+rapidocr
+onnxruntime
+PyMuPDF
+langchain
+langchain-core
+pydantic
+typing
+Werkzeug
+tabula
+Flask
+fastapi
+langchain-google-genai
+langchain-experimental
+langchain-neo4j
+langchain-huggingface
